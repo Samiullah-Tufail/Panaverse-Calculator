@@ -1,4 +1,4 @@
-#! src/bin/env node
+#! /src/bin/env node
 import inquirer from "inquirer";
 const answers = await inquirer.prompt([
     {
