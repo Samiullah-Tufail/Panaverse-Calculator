@@ -1,4 +1,4 @@
-#! /src/bin/env node
+#! /src/bin/env nodetsc
 
 import inquirer from "inquirer";
 
